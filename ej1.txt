@@ -1,0 +1,5 @@
+USERNAME=pablo
+SHLVL=1
+SHELL=/bin/bash
+DESKTOP_SESSION=ubuntu
+HOME=/home/pablo
