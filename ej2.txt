@@ -1,0 +1,1 @@
+Primero se crea la variable NOMBRE con el valor FS y se muestra, luego se hace bash y al mostrar NOMBRE no aparece su contenido, sino una linea vacía
