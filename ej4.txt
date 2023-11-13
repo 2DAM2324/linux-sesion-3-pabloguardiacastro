@@ -1,0 +1,2 @@
+Primero me dijo que el comando + no estaba definido, pero era porque lo había escrito con espacios como en el ejemplo pero en realidad había que ponerlo sin espacios.
+Al escribirlo bien me añadió "+1" después del valor que tenía en la variable número, a la que le dí el valor "1" antes de eso, por lo que al hacer echo salió "1+1"

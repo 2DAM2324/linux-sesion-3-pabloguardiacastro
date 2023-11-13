@@ -1,0 +1,4 @@
+Los archivos que hay en el directorio son: total 12 -rw-rw-r-- 1 pablo pablo 79 nov 8 08:30 ej1.txt -rw-rw-r-- 1 pablo pablo 151 nov 8 08:51 ej2.txt -rw-rw-r-- 1 pablo pablo 202 nov 8 08:23 README.md
+Los archivos que hay en el directorio son: ls -l
+Los archivos que hay en el directorio son: total 16 -rw-rw-r-- 1 pablo pablo 79 nov 8 08:30 ej1.txt -rw-rw-r-- 1 pablo pablo 151 nov 8 08:51 ej2.txt -rw-rw-r-- 1 pablo pablo 249 nov 8 09:46 ej3.txt -rw-rw-r-- 1 pablo pablo 202 nov 8 08:23 README.md
+Los archivos que hay en el directorio son: ls -l
